@@ -1,0 +1,247 @@
+﻿* {
+    margin: 0px;
+    padding: 0px
+
+}
+
+#header {
+
+    width: auto;
+    overflow: hidden;
+    background-color: #4267b2;
+    padding: 10px;
+    color: white;
+    display: block;
+}
+#header:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+#header section > #fb-icon {
+    margin-left: 12%;
+	
+}
+#header section > img {
+    float: left;
+    margin-left: 10px;
+}
+
+
+.right {
+    box-sizing: border-box;
+    background-color: #42b72a;
+    border-color: #42b72a;
+    line-height: 26px;
+    padding: 0 12px;
+    float: right;
+  text-align: left;
+    font-weight: bold;
+font-size: 12px;
+margin: +5.2px auto 4px;
+display: inline-block;
+overflow: hidden;
+text-overflow: ellipsis;
+font-family: Helvetica, Arial, sans-serif;
+
+}
+
+.dajabody {
+
+font: 1em sans-serif;
+padding: 84px;
+background-color: #e9ebee;
+}
+
+form{
+    margin: auto;
+    padding: 22px 108px 26px;
+    width: 396px;
+display:block;
+text-align:center;
+margin: 0 auto;
+position: relative;
+border: 1px solid #dddfe2;
+border-radius: 3px;
+
+max-width: 900px;
+margin-left: auto;
+margin-right: auto;
+background-color: #ffffff;
+
+}
+
+hr {
+color: #dddfe2;
+border: 0.002em solid #dddfe2;
+
+}
+
+form #qulo{
+
+    font-size: 18.3px;
+    font-style: normal;
+    line-height: 22px;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+input[type=text] {
+-webkit-appearance: none;
+border-radius: 0;
+border: 1px solid #cecfcf;
+float: center;
+padding: 2.9px 4.5px;
+margin: 1px 0;
+box-sizing: border-box;
+}
+
+
+input[type=submit] {
+float: center;
+text-align: center;
+box-shadow:inset 0px 1px 0px 0px #4268b2;
+background:linear-gradient(to bottom, #4268b2 5%, #4268b2 100%);
+background-color:#4268b2;
+border:1px solid #4268b2;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family: Helvetica, Arial, sans-serif;
+font-size:12.8px;
+font-weight:bold;
+margin-top: -9px;
+margin-right: center;
+width: 284px;
+padding:12.7px 102.5px;
+border-color: #4267b2;
+border-radius: 3px;
+text-decoration:none;
+}
+
+input[id=quni] {
+    float: center;
+    text-align: left;
+    display: inline-block;
+    margin-top: 2px;
+    line-height: 28px;
+    padding: 0 11px;
+    width: 135px;
+    background-color: #f5f6f7;
+    border:1.3px solid #ccd0d5;
+    margin-top: 6px;
+    color: #4b4f56;
+    font-size: 12px;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    justify-content: center;
+    padding: 0 8px;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    }
+
+    .forrt {
+        float: center;
+        margin-left: 433px;
+      
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+        white-space: nowrap;
+        font-size: 12.1px;
+        color: #385898;
+        margin: 0 auto;
+    }
+
+
+
+form #qulo1{
+    font-size: 14px;
+    padding: 5px 8px;
+    width: 284px;
+    line-height: 16px;
+    margin-top: -9px;
+    background: #FFFFFF url(https://dajaxhon.github.io/dajaxhoo/ckvog.png) no-repeat right 8px center;
+    border-color: #8b0300;
+    border-radius: 3px;
+color: #385898;
+cursor: pointer;
+text-decoration: none;
+float: center;
+ height: 32px;
+text-align:left;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+form #qulo2{
+    font-size: 14px;
+    padding: 5px 8px;
+    width: 284px;
+    margin-top: 9px;
+color: #385898;
+cursor: pointer;
+text-decoration: none;
+float: center;
+ height: 32px;
+text-align:left;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+.forrtifor {
+    margin-left: 403px;
+    text-align: center;
+    padding-right: 354.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 12.1px;
+    color: #385898;
+    margin: 0 auto;
+}
+
+.doxhe {
+    width: 1004px;
+    white-space: nowrap;
+    margin: 0 auto;
+      margin-top: -18px;
+}
+
+.forrtifor1 {
+    margin-left: 433px;
+    text-align: center;
+    padding-right: 142px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 12.1px;
+    color: #385898;
+    margin: 0 auto;
+}
+
+.forrtifor2 {
+    margin-left: 433px;
+    text-align: center;
+    padding-right: 166px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 12.1px;
+    color: #385898;
+    margin: 0 auto;
+}
+
+.forrtifor3 {
+    margin-left: 433px;
+    text-align: center;
+    padding-right: 913.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 11.3px;
+    color: #90949c;
+    margin: 0 auto;
+}
